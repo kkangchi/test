@@ -7,7 +7,7 @@ export default function PostsPage() {
     <div>
       <h1 className="text-3xl font-bold text-red-500">포스트 페이지</h1>
       <p> Title: {title}</p>
-      <p> content: {content}</p>
+      <p> Content: {content}</p>
     </div>
   )
 }
